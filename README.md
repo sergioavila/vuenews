@@ -1,6 +1,6 @@
-# bertender
+# vuenews
 
-> IBA official drink recipes
+> Vue.js project + API Rest news feed
 
 ## Build Setup
 
